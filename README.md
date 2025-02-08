@@ -17,7 +17,6 @@ Linux adalah sistem operasi open-source berbasis Unix yang digunakan di berbagai
 ## Windows
 Windows adalah sistem operasi berbasis GUI yang dikembangkan oleh Microsoft. Windows dikenal karena kemudahan penggunaannya dan kompatibilitas yang luas dengan berbagai software dan hardware.
 
-![Windows 11 Dark Theme](https://www.howtogeek.com/wp-content/uploads/2021/09/windows_11_basic_hero_dark.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1)
 
 ### Keunggulan Windows:
 - Antarmuka pengguna yang familiar
@@ -37,8 +36,6 @@ Windows adalah sistem operasi berbasis GUI yang dikembangkan oleh Microsoft. Win
 - Antarmuka grafis yang mudah digunakan
 - Monitoring sistem terintegrasi
 - Kontrol proses melalui GUI
-
-![Deskripsi Gambar](https://raw.githubusercontent.com/username/repository/branch/path/to/image.jpg)
 
 
 #### Linux System Monitor
@@ -91,4 +88,3 @@ Windows adalah sistem operasi berbasis GUI yang dikembangkan oleh Microsoft. Win
   - Pengguna yang mengutamakan privasi
   - Perangkat dengan spesifikasi terbatas
 
-Pilihan antara Windows dan Linux tergantung pada kebutuhan spesifik pengguna, baik dari segi penggunaan, keamanan, maupun fleksibilitas sistem.
