@@ -52,13 +52,11 @@ Windows adalah sistem operasi berbasis GUI yang dikembangkan oleh Microsoft. Win
 - Bisa mengubah desktop environment
 - Modifikasi kernel dimungkinkan
 
-![Kustomisasi](https://raw.githubusercontent.com/user-attachments/assets/0bbb26d1-e763-4192-a61d-509ddf35c7f0)
 
 ### 4. Performa
 - **Linux**: Lebih ringan dan efisien
 - **Windows**: Membutuhkan resource lebih besar
 
-![Performa](https://raw.githubusercontent.com/user-attachments/assets/f07b06a4-5946-4b78-bc6c-a582d948a0cf)
 
 ### 5. Software Kompatibilitas
 **Windows**:
@@ -71,7 +69,6 @@ Windows adalah sistem operasi berbasis GUI yang dikembangkan oleh Microsoft. Win
 - Wine untuk aplikasi Windows
 - LibreOffice, GIMP, dll
 
-![Software Kompatibilitas](https://raw.githubusercontent.com/user-attachments/assets/d60a13e1-f72a-4d67-a047-b04205ceb6c3)
 
 ## Kesimpulan
 - **Windows** ideal untuk:
