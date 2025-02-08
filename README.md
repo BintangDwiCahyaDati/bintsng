@@ -3,9 +3,6 @@
 ## Linux
 Linux adalah sistem operasi open-source berbasis Unix yang digunakan di berbagai perangkat, mulai dari komputer pribadi hingga server dan sistem tertanam. Tidak seperti Windows yang bersifat proprietary, Linux memungkinkan pengguna untuk melihat, memodifikasi, dan mendistribusikan kode sumbernya secara bebas.
 
-![Deskripsi Gambar](https://raw.githubusercontent.com/username/repository/branch/path/to/image.jpg)
-
-
 
 ### Keunggulan Linux:
 - Open source dan gratis
@@ -17,6 +14,7 @@ Linux adalah sistem operasi open-source berbasis Unix yang digunakan di berbagai
 ## Windows
 Windows adalah sistem operasi berbasis GUI yang dikembangkan oleh Microsoft. Windows dikenal karena kemudahan penggunaannya dan kompatibilitas yang luas dengan berbagai software dan hardware.
 
+![Windows 11 Dark Theme](https://www.howtogeek.com/wp-content/uploads/2021/09/windows_11_basic_hero_dark.jpg?width=1198&trim=1,1&bg-color=000&pad=1,1)
 
 ### Keunggulan Windows:
 - Antarmuka pengguna yang familiar
