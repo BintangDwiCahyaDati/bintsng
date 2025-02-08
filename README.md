@@ -3,7 +3,7 @@
 ## Linux
 Linux adalah sistem operasi open-source berbasis Unix yang digunakan di berbagai perangkat, mulai dari komputer pribadi hingga server dan sistem tertanam. Tidak seperti Windows yang bersifat proprietary, Linux memungkinkan pengguna untuk melihat, memodifikasi, dan mendistribusikan kode sumbernya secara bebas.
 
-![Linux Logo](https://github.com/username/repository/blob/main/images/linux.jpg)
+[![Linux Logo](https://github.com/username/repository/blob/main/images/linux.jpg)](https://tse3.mm.bing.net/th?id=OIP.LoyuWfPA81gUDLj9eH8EqgHaEK&pid=Api&P=0&h=180)
 
 
 ### Keunggulan Linux:
