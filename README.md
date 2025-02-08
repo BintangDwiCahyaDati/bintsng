@@ -16,7 +16,7 @@ Windows adalah sistem operasi proprietary yang dikembangkan oleh Microsoft, sehi
 
 ### 2. Penggunaan di server
 Linux lebih populer di server dan cloud computing karena stabilitas, keamanan, dan efisiensinya. Sebagian besar server web di dunia menggunakan Linux dengan teknologi seperti Apache dan Nginx. Windows juga digunakan di server, terutama untuk lingkungan korporat yang memanfaatkan Windows Server, tetapi Linux tetap menjadi pilihan utama karena biaya lisensi yang lebih rendah dan fleksibilitasnya.
-![image]([https://github.com/user-attachments/assets/cf15a900-8b50-4d93-83a1-38663dcf7d3b](https://cdn.mos.cms.futurecdn.net/uPALkW3UzvgE6FhMy3nCzD.png))
+![image](https://github.com/user-attachments/assets/cf15a900-8b50-4d93-83a1-38663dcf7d3b)
 Gambar Windows Server
 ![image](https://github.com/user-attachments/assets/cc71dcd9-3640-4864-aa8f-99cc2b665a13)
 Gambar Apache dan Ngingx
@@ -68,6 +68,7 @@ Windows lebih cocok bagi pengguna yang mengutamakan kemudahan penggunaan, kompat
 Linux, di sisi lain, unggul dalam keamanan, stabilitas, fleksibilitas, dan efisiensi sumber daya, menjadikannya pilihan ideal untuk server, pengembang, dan pengguna yang menyukai sistem open-source. Namun, Linux memiliki kurva belajar yang lebih tinggi, serta keterbatasan dalam menjalankan beberapa software eksklusif Windows tanpa emulator seperti Wine atau Proton.
 
 Pada akhirnya, pilihan antara Windows atau Linux tergantung pada kebutuhan spesifik pengguna—apakah lebih mengutamakan kemudahan dan kompatibilitas, atau fleksibilitas dan keamanan.
+
 
 
 
