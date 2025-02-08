@@ -38,7 +38,8 @@ Windows adalah sistem operasi berbasis GUI yang dikembangkan oleh Microsoft. Win
 - Monitoring sistem terintegrasi
 - Kontrol proses melalui GUI
 
-![Task Manager Windows](https://raw.githubusercontent.com/user-attachments/assets/4a8a9ee1-4c88-4930-a2ac-56382cb9ec83)
+![Deskripsi Gambar](https://raw.githubusercontent.com/username/repository/branch/path/to/image.jpg)
+
 
 #### Linux System Monitor
 - Lebih fleksibel dengan opsi GUI dan terminal
